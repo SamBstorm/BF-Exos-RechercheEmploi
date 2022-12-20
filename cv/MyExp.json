@@ -1,0 +1,15 @@
+{
+    "jobs":[
+        {
+            "title":"Analyst Developer",
+            "society" : "BStorm",
+            "start" : 2018
+        },
+        {
+            "title":"Game Desginer",
+            "society" : "SamProduction",
+            "start" : 2011,
+            "end" : 2018
+        }
+    ]
+}
